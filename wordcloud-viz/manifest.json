@@ -1,0 +1,12 @@
+{
+  "name": "Custom Word Cloud",
+  "vendor": "IA",
+  "version": "1",
+  "description": "Displays a simple word cloud",
+  "components": {
+    "wordcloud": {
+      "script": "wordcloud.js",
+      "style": "wordcloud.css"
+    }
+  }
+}
