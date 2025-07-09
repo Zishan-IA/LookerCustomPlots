@@ -3,10 +3,13 @@
   "vendor": "IA",
   "version": "1",
   "description": "Displays a simple word cloud",
-  "components": {
-    "wordcloud": {
-      "script": "wordcloud.js",
-      "style": "wordcloud.css"
-    }
-  }
+  "resources": {
+    "js": [
+      "wordcloud.js"
+    ],
+    "css": [
+      "wordcloud.css"
+    ]
+  },
+  "devMode": true
 }
